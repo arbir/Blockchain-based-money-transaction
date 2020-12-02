@@ -1,1 +1,3 @@
 # Blockchain-based-money-transaction
+unzip the node modules and put all the files it one folder
+run all the .js file and bingo....
